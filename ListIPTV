@@ -34,29 +34,33 @@ https://sglivevega.kplus.vn/bpk-tv/prod_klive3/default/i.mpd
 
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
+https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1cine_4000.stream/manifest.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21
+https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1lifeb_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
 https://smarttv-drm.fptplay.net/vthanhtivi/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1sport2_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
-https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1cine_4000.stream/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://live.television4you.xyz/livekplus/sp130072022.stream/mpegts?token=ad687ca3003165edd23fa90b96f8fd648c4023af-e85185dd8e0ab4a1df8df443ac30507e-1659433399-1659429799
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://live.television4you.xyz/livekplus/sp230072022.stream/mpegts?token=51c632de9b2f86423ca7310b52657e04fdf67426-853c3d422e57e98931f4f2bdaac73da6-1659433399-1659429799
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://live.television4you.xyz/livekplus/cine30072022.stream/mpegts?token=026631b88b5c8d9fd65ccc533275834bdea3c7a7-7ac33c675793320c7050370d156361b9-1659433687-1659430087
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/2042687112?profile=pass
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://live.television4you.xyz/livekplus/life30072022.stream/mpegts?token=83df6aeda0a332dd4f718f873450ec35da2b06f8-a51ab36ec671077ea7a86dcbb8710a74-1659433687-1659430087
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/2000328272?profile=pass
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+http://live.television4you.xyz:8081/LiveEvent/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1241199492?profile=pass
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
-http://live.television4you.xyz/livekplus/kids30072022.stream/mpegts?token=a8c5830aa86dddc3217a778c020db10e67e0ee47-25d5e46149d29a71365690d80543ea77-1659433399-1659429799
-
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1172634925?profile=pass
