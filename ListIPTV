@@ -1,8 +1,10 @@
 # EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml"
    
-#EXTINF:-1 tvg-id="vtv1hd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
+#EXTINF:-1 tvg-id="trailer" group-title=" 🔄 Load List" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
 #EXTVLCOPT:
 https://s.id/videotrailer
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
  
 #EXTINF:-1 tvg-id="kcinehd" group-title="K +" tvg-logo="https://pasteboard.co/uHrvkBVlOaYu.png", K+CINE HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KCINE0608.aslc/mpegts
