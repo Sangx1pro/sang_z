@@ -1,6 +1,6 @@
 # EXTM3U
    
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
 #EXTVLCOPT:
 https://drive.google.com/file/d/1Oo4ojZTcWf7mAr-7_YPX_EJW2wWuQLhT/view?usp=sharing
  
