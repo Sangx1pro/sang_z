@@ -1,14 +1,14 @@
 # EXTM3U
    
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KCINE0608.aslc/mpegts
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE0608.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KSP10608.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KSP20608.aslc/mpegts
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS0608.aslc/mpegts
     VTV
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
