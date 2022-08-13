@@ -93,4 +93,221 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/d65f1df2-54fd-46d8-a958-ae9d6ec2b868
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
 
+  VTC
+#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc1-hd/${start}/${offset}", VTC1 HD
+#EXTVLCOPT:
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+#EXTVLCOPT:
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc3-hd/${start}/${offset}", VTC3 HD
+#EXTVLCOPT:
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc4-yeah1-family-hd/${start}/${offset}", VTC4 HD
+#EXTVLCOPT:
+https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5 HD
+#EXTVLCOPT:
+https://api.vthanhtivi.pw/v1/getlink/vieon/vtc5-hd
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
+#EXTVLCOPT:
+https://api.vthanhtivi.pw/v1/getlink/vieon/vtc6
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
+#EXTVLCOPT:
+https://api.vthanhtivi.pw/v1/getlink/vieon/vtc7-todaytv-hd
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8
+#EXTVLCOPT:
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD
+#EXTVLCOPT:
+https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
+#EXTVLCOPT:
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+#EXTVLCOPT:
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K
+#EXTVLCOPT:
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
+#EXTVLCOPT:
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD
+#EXTVLCOPT:
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD
+#EXTVLCOPT:
+https://api.vthanhtivi.pw/v1/getlink/vieon/vtc16-hd
 
+HTV HTVC
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
+https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv5
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv15
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
+#EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+
+HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+
+BOX
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+https://code.television4you.xyz/getlink/nethubtv?id=9331&itb=1
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+http://live.television4you.xyz:8081/boxhits/mpegts
+#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+https://code.television4you.xyz/getlink/nethubtv?id=9335&itb=1
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+https://code.television4you.xyz/getlink/nethubtv?id=9337&itb=1
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+https://code.television4you.xyz/getlink/nethubtv?id=9329&itb=1
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://api.vthanhtivi.pw/v1/getlink/tv360/135/2
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+https://code.television4you.xyz/getlink/nethubtv?id=9333&itb=1
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+ 
+ Hoạt hình
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="babyfirst" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/200.png", BabyFirst
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="babytvhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+
+   JPTV
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
+https://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
+https://code.television4you.xyz/getlink/yoitv?id=j7SQYfwTF63S9FmRqrjNJw==
+#EXTINF:-1 tvg-id="NHKBS1.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
+https://code.television4you.xyz/getlink/yoitv?id=f-uLAeVdSWp9bd1XFM3Pzw==
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BS Premium
+https://code.television4you.xyz/getlink/yoitv?id=z3QuIfTGLtMqsBfWF1H4Pg==
+#EXTINF:-1 tvg-id="TVAsahi.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/440px-TV_Asahi_Logo.svg.png", TV Asahi
+https://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
+#EXTINF:-1 tvg-id="TVAsahiChannel1.jp" group-title="JPTV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png", TV Asahi Ch.1
+https://code.television4you.xyz/getlink/yoitv?id=-KcK0oRN-MHmABr2tu77zg==
+#EXTINF:-1 tvg-id="JOTXDTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo
+https://code.television4you.xyz/getlink/yoitv?id=dRNhWs1DLdcWq_ufN6fElg==
+#EXTINF:-1 tvg-id="NipponTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png", Nippon TV
+https://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
+#EXTINF:-1 tvg-id="JOCXDTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", Fuji TV
+https://code.television4you.xyz/getlink/yoitv?id=dfVr67j-Iy_J5tM4jYI7gQ==
+#EXTINF:-1 tvg-id="JORXDTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+https://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
+#EXTINF:-1 tvg-id="JOOYDTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+https://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
+#EXTINF:-1 tvg-id="JOMXDTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX1
+https://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
+#EXTINF:-1 tvg-id="JOAYDTV.jp" group-title="JPTV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png", ABC
+https://code.television4you.xyz/getlink/yoitv?id=oI8q04LSmuVJ76lxll2FWg==
+#EXTINF:-1 tvg-id="JOIXDTV.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/220px-Yomiuri_Telecasting_Corporation_Logo.svg.png", YTV
+https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+#EXTINF:-1 tvg-id="BSNipponTV.jp" group-title="JPTV" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2105021154150-L.jpg", BS-NTV
+https://code.television4you.xyz/getlink/yoitv?id=9GYVLtOWedFVhurDZOtidw==
+#EXTINF:-1 tvg-id="BSAsahi.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/BS%E6%9C%9D%E6%97%A5.png", BS Asahi
+https://code.television4you.xyz/getlink/yoitv?id=CDf67JD0vmiC74DDaND-XA==
+#EXTINF:-1 tvg-id="BSTBS.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1280px-BS-TBS_2020.svg.png", BS-TBS
+https://code.television4you.xyz/getlink/yoitv?id=JKQRufMevFV7GDKYePYwBQ==
+#EXTINF:-1 tvg-id="BSFuji.jp" group-title="JPTV" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji
+https://code.television4you.xyz/getlink/yoitv?id=1WFDcS4-Lv_4Qsnx8TQtgg==
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" group-title="JPTV" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo
+https://code.television4you.xyz/getlink/yoitv?id=y288Dc5aSplzqGsFpCvm-g==
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" group-title="JPTV" tvg-logo="https://kuma-video.com/wp-content/uploads/2020/04/prime.jpg", WOWOW Prime
+https://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
+#EXTINF:-1 tvg-id="WOWOWLive.jp" group-title="JPTV" tvg-logo="https://www.ztv.co.jp/assets/img/pages/service/tv/digital/channel/10/10-02.jpg", WOWOW Live
+https://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
+#EXTINF:-1 tvg-id="WOWOWCinema.jp" group-title="JPTV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/23-WOWOW-CINEMA.jpg", WOWOW Cinema
+https://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
+#EXTINF:-1 tvg-id="Star1.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png", Star 1
+https://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
+#EXTINF:-1 tvg-id="Star2.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png", Star 2
+https://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
+#EXTINF:-1 tvg-id="Star3.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png", Star 3
+https://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
+#EXTINF:-1 tvg-id="ATX.jp" group-title="JPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/640px-AT-X_logo.svg.png", AT-X
+https://sub2.neetball.net/live/neet.m3u8
