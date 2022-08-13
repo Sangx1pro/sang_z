@@ -1,6 +1,6 @@
 # EXTM3U
    
-#EXTINF:-1 tvg-id="kcinehd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K +" tvg-logo="https://pasteboard.co/uHrvkBVlOaYu.png", K+CINE HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KCINE0608.aslc/mpegts
 #EXTINF:-1 tvg-id="klifehd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE0608.aslc/mpegts
