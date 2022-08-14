@@ -11,7 +11,11 @@ http://aisharelamcho.duckdns.org/aisharelamcho/KCINE0608.aslc/mpegts
 #EXTINF:-1 tvg-id="klifehd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE0608.aslc/mpegts
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KSP10608.aslc/mpegts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
+
+http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KSP20608.aslc/mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="K +" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
