@@ -6,27 +6,27 @@ https://s.id/videotrailer
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
  
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="https://vietanhtvgroup.duckdns.org/ic/kcine.png", K+Cine HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+Cine HD
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
 http://s7337.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+ MyTV" tvg-logo="https://vietanhtvgroup.duckdns.org/ic/klife.png", K+Life HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+Life HD
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
 http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="https://vietanhtvgroup.duckdns.org/ic/ksport1.png", K+Sport 1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+Sport 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
 https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="https://vietanhtvgroup.duckdns.org/ic/ksport2.png", K+Sport 2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+Sport 2 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
