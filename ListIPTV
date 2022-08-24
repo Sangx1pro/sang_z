@@ -50,14 +50,23 @@ http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
 http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS1308.aslc/mpegts
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE SD
+http://103.179.188.40:8080/kcinesd/nosharingpls
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE SD
+http://103.179.188.40:8080/klifesd/nosharingpls
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 SD
+http://103.179.188.40:8080/ksport1sd/nosharingpls
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://103.179.188.40:8080/ksport2sd/nosharingpls
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://103.179.188.40:8080/kcine
+http://103.179.188.40:8080/kcine/nosharingpls
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://103.179.188.40:8080/klife
+http://103.179.188.40:8080/klife/nosharingpls
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://103.179.188.40:8080/ksport1
+http://103.179.188.40:8080/ksport1/nosharingpls
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.179.188.40:8080/ksport2
+http://103.179.188.40:8080/ksport2/nosharingpls
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 http://aisharelamcho.duckdns.org/aisharelamcho2/KCINE1708.aslc/mpegts
