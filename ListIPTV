@@ -4,12 +4,6 @@
 #EXTVLCOPT:
 https://s.id/videotrailer
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
- 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://vietanhtv.xyz/ic/ksport1.png", K+SPORT 1 FHD MyTV #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1
-
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=55f943b35444428090b5578789ebb813&key=a5219b6d6b8d0914ec6bf27cffd3bbaa https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://vietanhtv.xyz/ic/ksport2.png", K+SPORT 2 FHD MyTV #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KCINE1308.aslc/mpegts
 #EXTINF:-1 tvg-id="klifehd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
@@ -26,14 +20,6 @@ http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
 http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS1308.aslc/mpegts
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE SD
-http://103.179.188.40:8080/kcinesd/nosharingpls
-#EXTINF:-1 tvg-id="klifehd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE SD
-http://103.179.188.40:8080/klifesd/nosharingpls
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 SD
-http://103.179.188.40:8080/ksport1sd/nosharingpls
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.179.188.40:8080/ksport2sd/nosharingpls
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 http://103.179.188.40:8080/kcine/nosharingpls
@@ -43,15 +29,6 @@ http://103.179.188.40:8080/klife/nosharingpls
 http://103.179.188.40:8080/ksport1/nosharingpls
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 http://103.179.188.40:8080/ksport2/nosharingpls
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KCINE1708.aslc/mpegts
-#EXTINF:-1 tvg-id="klifehd" group-title="K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KLIFE1708.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KSP11708.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KSP21708.aslc/mpegts
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="https://vietanhtv.xyz/ic/ksport1.png", K+SPORT 1 FHD MyTV
@@ -309,61 +286,61 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 BOX
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 https://code.television4you.xyz/getlink/nethubtv?id=9331&itb=1
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 http://live.television4you.xyz:8081/boxhits/mpegts
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 https://code.television4you.xyz/getlink/nethubtv?id=9335&itb=1
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 https://code.television4you.xyz/getlink/nethubtv?id=9337&itb=1
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 https://code.television4you.xyz/getlink/nethubtv?id=9329&itb=1
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://api.vthanhtivi.pw/v1/getlink/tv360/135/2
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 https://code.television4you.xyz/getlink/nethubtv?id=9333&itb=1
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
  
  Hoạt hình
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
+#EXTINF:-1 tvg-id="boomerang" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#EXTINF:-1 tvg-id="dreamworks" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babyfirst" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/200.png", BabyFirst
+#EXTINF:-1 tvg-id="babyfirst" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/200.png", BabyFirst
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
+#EXTINF:-1 tvg-id="babytvhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 
