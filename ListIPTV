@@ -70,7 +70,7 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1
 
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://vietanhtv.xyz/ic/klife.png", K+LIFE FHD MyTV
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ MyTV" tvg-logo="https://vietanhtv.xyz/ic/klife.png", K+LIFE FHD MyTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -78,7 +78,7 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1
 
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://vietanhtv.xyz/ic/ksport2.png", K+SPORT 2 FHD MyTV
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="https://vietanhtv.xyz/ic/ksport2.png", K+SPORT 2 FHD MyTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
