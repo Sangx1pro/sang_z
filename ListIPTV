@@ -1,4 +1,4 @@
-# EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml"
    
 #EXTINF:-1 tvg-id="trailer" group-title=" 🔄 Load List" tvg-logo="https://i.ibb.co/xHv4yJ2/tbientv-uplist.gif" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", 🧡A Day Happy
 #EXTVLCOPT:
@@ -19,7 +19,7 @@ http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS1308.aslc/mpegts
 
-#EXTINF:-1 group-title="Sky Sport",Sky Sport Premier League
+#EXTINF:-1 group-title="Sky Sport" tvg-logo="https://images.app.goo.gl/yJTKxU4QiUasG35X8", Sport Premier League
 http://live-sg.cvacetv.ga:8080/stream/channelid/597963047
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
