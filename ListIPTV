@@ -4,23 +4,9 @@
 #EXTVLCOPT:
 https://s.id/videotrailer
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KCINE1308.aslc/mpegts
-#EXTINF:-1 tvg-id="klifehd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE1308.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KSP11308.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 2
-http://live.television4you.xyz:8081/LiveEvent/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 3
-http://103.180.133.235/aisharelamcho/KSP11308.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
-#EXTINF:-1 tvg-id="kkidshd" group-title="K cộng" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS1308.aslc/mpegts
 
 #EXTINF:-1 group-title="Sky Sport" tvg-logo="https://images.app.goo.gl/yJTKxU4QiUasG35X8", Sport Premier League
-http://live-sg.cvacetv.ga:8080/stream/channelid/597963047
+http://live-eu.cvacetv.ga:8080/stream/channelid/857180288
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 http://103.179.188.40:8080/kcine/nosharingpls
