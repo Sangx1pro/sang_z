@@ -8,15 +8,6 @@ https://s.id/videotrailer
 #EXTINF:-1 group-title="Sky Sport" tvg-logo="https://i.imgur.com/rLGnfYp.png", Sport Premier League
 http://live-sg.cvacetv.ga:8080/stream/channelid/597963047
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://103.179.188.40:8080/kcine/nosharingpls
-#EXTINF:-1 tvg-id="klifehd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://103.179.188.40:8080/klife/nosharingpls
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://103.179.188.40:8080/ksport1/nosharingpls
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.179.188.40:8080/ksport2/nosharingpls
-
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭|K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+Cine HD (DRM) MyTV
