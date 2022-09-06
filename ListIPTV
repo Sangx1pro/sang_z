@@ -19,40 +19,38 @@ http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrc7JEGaWl6Bcxm_V4lV2sb0/ts
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrYyN_khci6zNSuqpzlZn0cs/ts
 
 
-#EXTINF:-1 group-title="K+ MyTV",K+ CINE
+#EXTINF:-1 group-title="Kcộng MyTV",K+ CINE
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrYS_kJv0L4-Re2bt0tV25jc/ts
-#EXTINF:-1 group-title="K+ MyTV",K+ KIDS
+#EXTINF:-1 group-title="Kcộng MyTV",K+ KIDS
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrRdqzl96YH9q9790JBm-CSg/ts
-#EXTINF:-1 group-title="K+ MyTV",K+ LIFE
+#EXTINF:-1 group-title="Kcộng MyTV",K+ LIFE
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrarwG-cjPFLq_SaCA7eUR0A/ts
-#EXTINF:-1 group-title="K+ MyTV",K+ SPORT1
+#EXTINF:-1 group-title="Kcộng MyTV",K+ SPORT1
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrfTZwcoQzgHnivSnfCOwcIA/ts
-#EXTINF:-1 group-title="K+ MyTV",K+ SPORT2
+#EXTINF:-1 group-title="Kcộng MyTV",K+ SPORT2
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmreZUwWfHn2_defh9WGN05Pk/ts
-#EXTINF:-1 group-title="K+ MyTV",K+ LIVE 1 HD
+#EXTINF:-1 group-title="Kcộng MyTV",K+ LIVE 1 HD
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrcVesa8UaXjl0xV6qNa4FMI/ts
 
 
-#EXTINF:-1 group-title="K+ ClipTV",K+ CINE
+#EXTINF:-1 group-title="Kcộng ClipTV",K+ CINE
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrdElavDHO1AYwGJvCFj5wHw/ts
-#EXTINF:-1 group-title="K+ ClipTV",K+ LIFE
+#EXTINF:-1 group-title="Kcộng ClipTV",K+ LIFE
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrUIAzOaiiCNHtIuaqWdXkgM/ts
-#EXTINF:-1 group-title="K+ ClipTV",K+ SPORT1
+#EXTINF:-1 group-title="Kcộng ClipTV",K+ SPORT1
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrbiYaN8VfRZxhTaqzBDlShc/ts
-#EXTINF:-1 group-title="K+ ClipTV",K+ SPORT2
+#EXTINF:-1 group-title="KcộngClipTV",K+ SPORT2
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrTFInoSQkwGGDkd6GXjkt5o/ts
 
 
-#EXTINF:-1,ON Sports
+#EXTINF:-1 group-title="VTVCab ON" ,ON Sports
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrfvqvz4A7sQ41qYTBGj2xek/ts
-#EXTINF:-1,ON Sports+
+#EXTINF:-1 group-title="VTVCab ON",ON Sports+
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrd3szoyCe5l_u6k5VCkvU8E/ts
-#EXTINF:-1,ON Football
+#EXTINF:-1 group-title="VTVCab ON",ON Football
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrXhBvARWfnT5fJXrT--z5EU/ts
-#EXTINF:-1,ON Sports News
+#EXTINF:-1 group-title="VTVCab ON",ON Sports News
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrZWWxSrFRSLfcSa6wqmap2E/ts
-#EXTINF:-1,ON Golf
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrROeQVXEGe0K6YfMAbS4WFA/ts
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭|K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+Cine HD (DRM) MyTV
