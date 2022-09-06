@@ -18,7 +18,7 @@ http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrc7JEGaWl6Bcxm_V4lV2sb0/ts
 #EXTINF:-1 group-title="K+ FPT.Play",K+ SPORTS 2
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrYyN_khci6zNSuqpzlZn0cs/ts
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
 #EXTINF:-1 group-title="K+ MyTV",K+ CINE
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrYS_kJv0L4-Re2bt0tV25jc/ts
 #EXTINF:-1 group-title="K+ MyTV",K+ KIDS
@@ -33,6 +33,14 @@ http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmreZUwWfHn2_defh9WGN05Pk/ts
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrcVesa8UaXjl0xV6qNa4FMI/ts
 
 
+#EXTINF:-1 group-title="K+ ClipTV",K+ CINE
+http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrdElavDHO1AYwGJvCFj5wHw/ts
+#EXTINF:-1 group-title="K+ ClipTV",K+ LIFE
+http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrUIAzOaiiCNHtIuaqWdXkgM/ts
+#EXTINF:-1 group-title="K+ ClipTV",K+ SPORT1
+http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrbiYaN8VfRZxhTaqzBDlShc/ts
+#EXTINF:-1 group-title="K+ ClipTV",K+ SPORT2
+http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrTFInoSQkwGGDkd6GXjkt5o/ts
 
 
 
