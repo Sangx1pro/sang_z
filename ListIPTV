@@ -45,7 +45,7 @@ http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrTFInoSQkwGGDkd6GXjkt5o/ts
 
 #EXTINF:-1 group-title="VTVCab ON" ,ON Sports
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrfvqvz4A7sQ41qYTBGj2xek/ts
-#EXTINF:-1 group-title="VTVcab ON" ,ON Sports+
+#EXTINF:-1 group-title="VTVCab ON" ,ON Sports+
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/196
 #EXTINF:-1 group-title="VTVCab ON",ON Football
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrXhBvARWfnT5fJXrT--z5EU/ts
