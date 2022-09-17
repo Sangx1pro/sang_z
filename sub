@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="Sáng |K+" tvg-logo="https://i.imgur.com/0wjvLz2.png", K+ Sport1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5cf6cf8418654ed89f7caedaa660fd3b&key=b05b81ff46eac6a51ed36577777a489f
-https://sglive.akamaized.net/bpk-tv/prod_vtv1hd/default/index.mpd
