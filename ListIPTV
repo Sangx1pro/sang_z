@@ -47,9 +47,9 @@ http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrTFInoSQkwGGDkd6GXjkt5o/ts
 
 #EXTINF: -1 group-title"BeIn Sports Premium" tvg-name="beIN Sports 1 PREMIUM 4K" , beIN Sports 1 PREMIUM 4K
 http://74a0fc4da9cdfb59ff5a41a7378a556e.spo.iscaja.me:25461/BUEuxocgNe/318349973396/3950?h=692898ae8389d4b873646da9021f8049f3d4b086&z=&i=64812
-#EXTINF: -1 tvg-name="beIN Sports 2 PREMIUM 4K", beIN Sports 2 PREMIUM 4K
+#EXTINF: -1 group-title"BeIn Sports Premium" tvg-name="beIN Sports 2 PREMIUM 4K", beIN Sports 2 PREMIUM 4K
 http://74a0fc4da9cdfb59ff5a41a7378a556e.spo.iscaja.me:25461/BUEuxocgNe/318349973396/3951?h=692898ae8389d4b873646da9021f8049f3d4b086&z=&i=64812
-#EXTINF: -1 tvg-name="beIN Sports 3 PREMIUM 4K" , beIN Sports 3 PREMIUM 4K
+#EXTINF: -1 group-title"BeIn Sports Premium" tvg-name="beIN Sports 3 PREMIUM 4K" , beIN Sports 3 PREMIUM 4K
 http://74a0fc4da9cdfb59ff5a41a7378a556e.spo.iscaja.me:25461/BUEuxocgNe/318349973396/3952?h=692898ae8389d4b873646da9021f8049f3d4b086&z=&i=64812
 
 
