@@ -8,16 +8,16 @@ https://s.id/videotrailer
 #EXTINF:-1 group-title="Sky Sport" tvg-logo="https://i.imgur.com/rLGnfYp.png", Sport Premier League
 http://live-sg.cvacetv.ga:8080/stream/channelid/597963047
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 group-title="K+ FPT.Play",K+ CINE
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmraa4NrYml7moaRdYbgTRvDo/ts
-#EXTINF:-1 group-title="K+ FPT.Play",K+ LIFE
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrUctX_zdilok-9HKq1c42JY/ts
-#EXTINF:-1 group-title="K+ FPT.Play",K+ SPORTS 1
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrc7JEGaWl6Bcxm_V4lV2sb0/ts
-#EXTINF:-1 group-title="K+ FPT.Play",K+ SPORTS 2
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrYyN_khci6zNSuqpzlZn0cs/ts
-
+#EXTINF:-1 group-title="K+ FPTPlay",K+ CINE
+http://plus.vthanhtivi.pw:80/extensionss/123456@a/32.ts
+#EXTINF:-1 group-title="K+ FPTPlay",K+ LIFE
+http://plus.vthanhtivi.pw:80/extensionss/123456@a/33.ts
+#EXTINF:-1 group-title="K+ FPTPlay",K+ SPORT1
+http://plus.vthanhtivi.pw:80/extensionss/123456@a/34.ts
+#EXTINF:-1 group-title="K+ FPTPlay",K+ SPORT2
+http://plus.vthanhtivi.pw:80/extensionss/123456@a/35.ts
+#EXTINF:-1 group-title="K+ FPTPlay",K+ KIDS
+http://plus.vthanhtivi.pw:80/extensionss/123456@a/36.ts
 
 #EXTINF:-1 group-title="Kcộng MyTV",K+ CINE
 http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrYS_kJv0L4-Re2bt0tV25jc/ts
