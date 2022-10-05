@@ -18,21 +18,6 @@ http://74a0fc4da9cdfb59ff5a41a7378a556e.spo.iscaja.me:25461/BUEuxocgNe/318349973
 
 
 
-
-#EXTINF:-1 group-title="VTVCab ON" ,ON Sports
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrfvqvz4A7sQ41qYTBGj2xek/ts
-#EXTINF:-1 group-title="VTVCab ON" ,ON Sports+
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrd3szoyCe5l_u6k5VCkvU8E/ts
-#EXTINF:-1 group-title="VTVCab ON",ON Football
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrXhBvARWfnT5fJXrT--z5EU/ts
-#EXTINF:-1 group-title="VTVCab ON",ON Sports News
-http://plus.vthanhtivi.pw:80/play/0bRbPbStH6hJvb9NFpwmrZWWxSrFRSLfcSa6wqmap2E/ts
-
-
-
-
-
-
     VTV
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
 #EXTVLCOPT:
