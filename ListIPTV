@@ -7,95 +7,39 @@ https://s.id/videotrailer
 #EXTM3U url-tvg="https://img.vnmedia.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 
-#----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AEhwHwdOUBZItnWOslTovQ","kid":"Km3Ft+nCSnOW/WqJJuAbIA"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+Cine HD - Nguồn Kplus
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bx6QdcVD62sv4YJg/KKCsA","kid":"eTjRuq+YRhqfvM/Bc6OpbQ"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd" tvg-logo="https://img.vnmedia.xyz/logo/klifehd.jpg",K+Life HD - Nguồn Kplus
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T8ExkWRZWApLdPd/95xpEQ","kid":"kG6QQamhR72CrPz47XniIw"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg",K+Sport1 HD - Nguồn Kplus
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pSGbbWuNCRTsa/J8/9O7qg","kid":"VflDs1REQoCQtVeHieu4Ew"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg",K+Sport2 HD - Nguồn Kplus
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lLVT6N3Bl6wp6HplVZcDyw","kid":"0288oM60SgiBo0h2p70uaA"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kkidshd" tvg-logo="https://img.vnmedia.xyz/logo/kkidshd.jpg",K+Kids HD - Nguồn Kplus
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pdC8LJjjEE23YTTitvmxZQ","kid":"KqODVBG3TYS7AwGFh8HfHA"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+Cine HD - Nguồn MyTV
+#EXTINF:-1 group-title="Kplus - MYTV" tvg-id="kcinehd" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+Cine HD
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O0c3cijPXn2drnkQEYd+Tg","kid":"jgS4Wr41Q5KBxecfQhkYrw"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd" tvg-logo="https://img.vnmedia.xyz/logo/klifehd.jpg",K+Life HD - Nguồn MyTV
+#EXTINF:-1 group-title="Kplus - MYTV" tvg-id="klifehd" tvg-logo="https://img.vnmedia.xyz/logo/klifehd.jpg",K+Life HD
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0DIifObmBTsm5mTu/KBsHg","kid":"RckCZARaQoKtA7DMEsdgiw"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg",K+Sport1 HD - Nguồn MyTV
+#EXTINF:-1 group-title="Kplus - MYTV" tvg-id="ksport1hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg",K+Sport1 HD
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p0LXVk4IdzNKUWvnjal5kg","kid":"el9/uFnIQd2aM5kxoP6j8A"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg",K+Sport2 HD - Nguồn MyTV
+#EXTINF:-1 group-title="Kplus - MYTV" tvg-id="ksport2hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg",K+Sport2 HD
 http://vas-mobiletv4.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NhfjQLd6dvoSMvT2NgFX/Q","kid":"J2F1T2YWNNSVYGMRmN0xIg"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+Cine HD - Nguồn FPTplay
-https://raintv.tk/get/fpt/cine/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SpPWX15wCbyvVzsYfmj9IQ","kid":"PAIib4vsP5SNPgWDbEEOfg"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="klifehd" tvg-logo="https://img.vnmedia.xyz/logo/klifehd.jpg",K+Life HD - Nguồn FPTplay
-https://raintv.tk/get/fpt/life/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/2p+vDo+Bk1OF0aoc54AZA","kid":"FPFzX0zFNe+cOlJX0GyY0A"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg",K+Sport1 HD - Nguồn FPTplay
-https://raintv.tk/get/fpt/sp1/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1IXDO1r4SZEbO1/CEhiAmA","kid":"9nOu7yTcP0umQ37zs3z6kg"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg",K+Sport2 HD - Nguồn FPTplay
-https://raintv.tk/get/fpt/sp2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xEAD1IIyW/Mqe4ce3BYsDg","kid":"Ivwk+BfzNPWy174JZSU75w"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kkidshd" tvg-logo="https://img.vnmedia.xyz/logo/kkidshd.jpg",K+Kids HD - Nguồn FPTplay
-https://raintv.tk/get/fpt/kids/manifest.mpd
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 
