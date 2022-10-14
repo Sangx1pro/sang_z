@@ -6,11 +6,15 @@ https://s.id/videotrailer
 
 #EXTM3U url-tvg="https://img.vnmedia.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTM3U
 
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="Sáng |Kcộng1" tvg-logo="https://i.imgur.com/0wjvLz2.png", K+ Sport1 HD
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1eafcb53db0045328b60ccd08e7a5ecf&key=33ab2bfa24e49a58a1e0bc5981918580
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pdC8LJjjEE23YTTitvmxZQ","kid":"KqODVBG3TYS7AwGFh8HfHA"}],"type":"temporary"}
 #EXTINF:-1 group-title="Kplus - MYTV" tvg-id="kcinehd" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg",K+Cine HD
