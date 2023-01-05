@@ -1,0 +1,40 @@
+//K+ Sport 1//FHD
+#EXTINF:-1 tvg-id="ksports1hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6db5d288b49a4c32bfc5c06335be6c5e:1a511b26cafc1bc7a35bb5b3246f3c2d
+https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+//K+ Sports 2//FHD
+#EXTINF:-1 tvg-id="ksports2hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/sDFwIFI.png", K+ Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6211234221de4c3f99b03f46f0f82572:9ce058017a27d94e63ba0e5f0e50ae4c
+https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+//K+ Life //FHD 
+#EXTINF:-1 tvg-id="klifehd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bab5a2b849e4a6f91b80c15603ac51f:7d063f215c56d57f7bae13ccb967156e
+https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+//K+ Cine //FHD
+#EXTINF:-1 tvg-id="kcinehd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a302329dbcc94ad4b4fbefaf3c5d2d88:71eb40857f93d7b40039fae94ef7c5db
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
+//K+ Kids //FHD
+#EXTINF:-1 tvg-id="kkidshd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cae6d413a8644182af5be92c3f36e8a3:881821e15c44cd608798e6fc70d293eb
+https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+//K+ Live 1 //HD
+#EXTINF:-1 tvg-id="klive1hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97251b767c404371a0cf0cf25fffdf36:766a7aa6b9abe109623b3ce0824ba98d
+https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd
+//K+ Live 2 //HD
+#EXTINF:-1 tvg-id="klive2hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41749d3c05f94cecaa98df2b315ad309:7439dee8a67ad81f99b68d7c7bfa79d2
+https://sglivecdn.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
+//K+ Live 3 // HD
+#EXTINF:-1 tvg-id="klive3hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dc1da9c615d46e195b5ec8691507887:8e1c2aaa4ff12f48e783210331e0a0b9
+https://sglivecdn.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
