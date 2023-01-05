@@ -1,8 +1,8 @@
 //K+ Sport 1//FHD
 #EXTINF:-1 tvg-id="ksports1hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6db5d288b49a4c32bfc5c06335be6c5e:1a511b26cafc1bc7a35bb5b3246f3c2d
-https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e10a95ce9648484183bec5e1a2846d3f:742b35cadacdfeecd1bdf97461acf8cc
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
 #EXTINF:-1 tvg-id="ksports2hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/sDFwIFI.png", K+ Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
