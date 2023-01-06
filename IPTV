@@ -6,22 +6,22 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
 #EXTINF:-1 tvg-id="ksports2hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/sDFwIFI.png", K+ Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6211234221de4c3f99b03f46f0f82572:9ce058017a27d94e63ba0e5f0e50ae4c
-https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=229cbf790a514427a6d9d682310e39a0:b3d03e41ca99d38310edf79c52b49318
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bab5a2b849e4a6f91b80c15603ac51f:7d063f215c56d57f7bae13ccb967156e
+#KODIPROP:inputstream.adaptive.license_key=b5602d808c9941519097d73f43ee00a1:8c773af7a0c8921ed9d5c9807b5dd5a6
 https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a302329dbcc94ad4b4fbefaf3c5d2d88:71eb40857f93d7b40039fae94ef7c5db
+#KODIPROP:inputstream.adaptive.license_key=4ebe1b00be7a4c5187728fbe4c443572:a6bb9c3543711a6de17500061ccab0ed
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 //K+ Kids //FHD
 #EXTINF:-1 tvg-id="kkidshd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cae6d413a8644182af5be92c3f36e8a3:881821e15c44cd608798e6fc70d293eb
+#KODIPROP:inputstream.adaptive.license_key=41c0edd77019455fb4895c2bffc2b42d:a10dc8d4bbb7a4c4d915a587cf9f3479
 https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 //K+ Live 1 //HD
 #EXTINF:-1 tvg-id="klive1hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 1
