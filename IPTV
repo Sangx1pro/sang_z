@@ -1,27 +1,27 @@
 //K+ Sport 1//FHD
 #EXTINF:-1 tvg-id="ksports1hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e10a95ce9648484183bec5e1a2846d3f:742b35cadacdfeecd1bdf97461acf8cc
+#KODIPROP:inputstream.adaptive.license_key=225fd917e548484183bec5e1a2846d3f:29bb37ea1e04f0ecb0ab0898d3fdf711
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
 #EXTINF:-1 tvg-id="ksports2hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/sDFwIFI.png", K+ Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=229cbf790a514427a6d9d682310e39a0:b3d03e41ca99d38310edf79c52b49318
+#KODIPROP:inputstream.adaptive.license_key=63f103c259514427a6d9d682310e39a0:7d1c31c4cd0ab6959a274fbff8ce83c7
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5602d808c9941519097d73f43ee00a1:8c773af7a0c8921ed9d5c9807b5dd5a6
+#KODIPROP:inputstream.adaptive.license_key=f6b571c9db9941519097d73f43ee00a1:27ef04ec090d052128ebcdd3bb48e8fb
 https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ebe1b00be7a4c5187728fbe4c443572:a6bb9c3543711a6de17500061ccab0ed
+#KODIPROP:inputstream.adaptive.license_key=8f135f490d7a4c5187728fbe4c443572:e25330abd7880978ef36c96e6f7b8022
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 //K+ Kids //FHD
 #EXTINF:-1 tvg-id="kkidshd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41c0edd77019455fb4895c2bffc2b42d:a10dc8d4bbb7a4c4d915a587cf9f3479
+#KODIPROP:inputstream.adaptive.license_key=82153120bf19455fb4895c2bffc2b42d:e49d0a0c4e0356063525a7985f251296
 https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 //K+ Live 1 //HD
 #EXTINF:-1 tvg-id="klive1hd" group-title="Tặng anh Hiếu K+" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 1
