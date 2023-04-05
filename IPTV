@@ -1,6 +1,6 @@
 © Copyright Phạm Sáng
 
-#EXTINF:-1 tvg-id="Coppyright" group-title="K+" tvg-logo="https://i.imgur.com/X4gTMP2.png",© Copyright Phạm Sáng
+#EXTINF:-1 tvg-id="Coppyright" tvg-logo="https://i.imgur.com/X4gTMP2.png",© Copyright Phạm Sáng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
