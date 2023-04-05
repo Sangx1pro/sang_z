@@ -22,8 +22,10 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
+EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f135f490d7a4c5187728fbe4c443572:e25330abd7880978ef36c96e6f7b8022
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VOQl4T7w1mD/plMTnC/DTA", "kid":"OoIP1MAerpUz+JC3L4U11g" },{ "kty":"oct", "k":"VOQl4T7w1mD/plMTnC/DTA", "kid":"OoIP1MAerpUz+JC3L4U11g" },{ "kty":"oct", "k":"sRy1PhAwlnOQ7iP+lNukdA", "kid":"+S3Li3EerpUz+JC3L4U11g" }.{ "kty":"oct", "k":"bwvKD7ZgZy5w0zGN09A4sQ", "kid":"QXHLi3EerpUz+JC3L4U11g" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 //K+ Kids //FHD
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
