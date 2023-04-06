@@ -23,7 +23,7 @@ https://sglivecdn.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"FHzl9PDu5Ox6aw+tTwq5aA", "kid":"afHLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"1bymmG4iORa8ldNItdxueQ", "kid":"sTXLEyIgqP/a/U+QUHDe4w" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
-#EXTINF:-1 tvg-id="ksports2hd" group-title="K+" tvg-logo="https://photos.google.com/search/_tra_/photo/AF1QipO5qhtoZ3Ea2jds3TcfQ9phcuzbbYBnRPhygHGb", K+ Sports 2
+#EXTINF:-1 tvg-id="ksports2hd" group-title="K+" tvg-logo="https://i.imgur.com/1jBDBwp.png", K+ Sports 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
