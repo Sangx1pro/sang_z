@@ -21,7 +21,7 @@ https://sglivecdn.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"FHzl9PDu5Ox6aw+tTwq5aA", "kid":"afHLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"1bymmG4iORa8ldNItdxueQ", "kid":"sTXLEyIgqP/a/U+QUHDe4w" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZZ3ZAVglYWW10X19YB2EGg", "kid":"qzLlvfxuStcMNUWuwzvkgg" },{ "kty":"oct", "k":"ZZ3ZAVglYWW10X19YB2EGg", "kid":"qzLlvfxuStcMNUWuwzvkgg" },{ "kty":"oct", "k":"bEaefkxAzT6NUAiso8nrgA", "kid":"at2hdK1uStcMNUWuwzvkgg" },{ "kty":"oct", "k":"IL67Ck4IMFdT1ihUGPNCSw", "kid":"siGhdK1uStcMNUWuwzvkgg" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
 #EXTINF:-1 tvg-id="ksports2hd" group-title="K+" tvg-logo="https://i.imgur.com/kkIdVc4.png", K+ Sports 2
