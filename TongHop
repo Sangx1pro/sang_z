@@ -214,3 +214,30 @@ https://code.vthanhtivi.pw/getlink/jptv2/101/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptv2/142/playlist.m3u8
 #EXTINF:-1 group-title="Nhật Bản" tvg-logo="https://lh3.googleusercontent.com/-AvUYC6beTOk/Y1F5cOID1II/AAAAAAAABHA/XuEQav0Uq0oDqfXQs0tKUeNst9P3NwO_gCNcBGAsYHQ/142.png", tetsudo channel jp  
 https://code.vthanhtivi.pw/getlink/jptv2/158/playlist.m3u8
+//New
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="New NHK",NHK WORLD JAPAN
+https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hr34y6B/NHKE-BEARTV.png" group-title="New NHK",NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRXL1sv/NHK-G-BEARTV.png" group-title="New NHK",NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Px219mS/Fuji-TV-BEARTV.png" group-title="New NHK",BS Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="New NHK", Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="New NHK", TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="New NHK",TBS TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQxt7y4/TV-Tokyo-BEARTV.png" group-title="New NHK",TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVsM8xX/NHK-BS1-BEARTV.png" group-title="New NHK",NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdscfHY/B12-BEARTV.png" group-title="New NHK",BS 12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5yKm0X/jsports1-BEARTV.png" group-title="New NHK",J Sport 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hBt4pzh/jsports2-BEARTV.png" group-title="New NHK",J Sport 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MV0W2Dd/jsports3-BEARTV.png" group-title="New NHK",J Sport 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
