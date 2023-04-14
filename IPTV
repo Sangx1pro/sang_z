@@ -28,7 +28,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"prdnRIQn5YnCTpcZEvA+MQ", "kid":"zUAWIK8Acnm6fhASjuAXPw" },{ "kty":"oct", "k":"prdnRIQn5YnCTpcZEvA+MQ", "kid":"zUAWIK8Acnm6fhASjuAXPw" },{ "kty":"oct", "k":"LsO9Cba6DrKnz2qMi/sXEQ", "kid":"jOvS12AAcnm6fhASjuAXPw" },{ "kty":"oct", "k":"LsO9Cba6DrKnz2qMi/sXEQ", "kid":"jOvS12AAcnm6fhASjuAXPw" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"prdnRIQn5YnCTpcZEvA+MQ", "kid":"zUAWIK8Acnm6fhASjuAXPw" },{ "kty":"oct", "k":"prdnRIQn5YnCTpcZEvA+MQ", "kid":"zUAWIK8Acnm6fhASjuAXPw" },{ "kty":"oct", "k":"LsO9Cba6DrKnz2qMi/sXEQ", "kid":"jOvS12AAcnm6fhASjuAXPw" },{"kty":"oct", "k":"b82tGnUnbWh0XepW4OvHWA", "kid":"1C/S12AAcnm6fhASjuAXPw" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
