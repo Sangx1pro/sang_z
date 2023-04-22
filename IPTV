@@ -52,3 +52,12 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"E6BDlucKSLYbG17CObWKTA", "kid":"l+Hye5jw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"zC3gbfPjpDVOURZQLWYTug", "kid":"3yXye5jw28/wyFcyiMA/mQ" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
+EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"21NSK4PlHicwNX+0Cy2QwQ", "kid":"LD6FHo+9OOqK0ZXvcoUOAw" } ], "type":"temporary" }
+https://live-drm.fptplay.net/fnxdrmsport/thethao39_2000.stream/manifest.mpd
+
