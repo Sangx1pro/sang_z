@@ -54,7 +54,7 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
+#EXTINF:-1 tvg-id="kkidshd" group-title="FPT Play" tvg-logo="https://i.imgur.com/qRkelUM.png",Man City
 EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
