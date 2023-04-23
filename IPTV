@@ -1,7 +1,7 @@
 //© Copyright Phạm Sáng
 #EXTINF:-1 tvg-id="klive1hd" group-title = "© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/X4gTMP2.png",© Copyright Phạm Sáng
 //K+ Live 1 //HD
-#EXTINF:-1 tvg-id="klive1hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/0SXikVJ.png", K+ Live 1
+#EXTINF:-1 tvg-id="klive1hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/Xi5O4g5.png", K+ Live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97251b767c404371a0cf0cf25fffdf36:766a7aa6b9abe109623b3ce0824ba98d
 https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd
