@@ -52,3 +52,10 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"E6BDlucKSLYbG17CObWKTA", "kid":"l+Hye5jw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"zC3gbfPjpDVOURZQLWYTug", "kid":"3yXye5jw28/wyFcyiMA/mQ" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="FPT PLay" tvg-logo="https://i.imgur.com/w05BDfL.png",Mu vs Brighton
+EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q5EX/sLNA+oxWZTJJsScvQ", "kid":"4jTx66f9M66ZLJ1o3XjA5w" } ], "type":"temporary" }
