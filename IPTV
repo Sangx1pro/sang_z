@@ -59,3 +59,4 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q5EX/sLNA+oxWZTJJsScvQ", "kid":"4jTx66f9M66ZLJ1o3XjA5w" } ], "type":"temporary" }
+https://live-drm.fptplay.net/fnxdrmsport/thethao40_2000.stream/manifest.mpd
