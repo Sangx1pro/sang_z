@@ -50,6 +50,6 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"E6BDlucKSLYbG17CObWKTA", "kid":"l+Hye5jw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"zC3gbfPjpDVOURZQLWYTug", "kid":"3yXye5jw28/wyFcyiMA/mQ" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x9df+5DcmqQgqTtPBoFDow", "kid":"1r4ocgV8eIl1Lpuv/dnrmw" },{ "kty":"oct", "k":"x9df+5DcmqQgqTtPBoFDow", "kid":"1r4ocgV8eIl1Lpuv/dnrmw" },{ "kty":"oct", "k":"O5cRWXpSoUdatsJzKvRDMA", "kid":"lWnkKbZ8eIl1Lpuv/dnrmw" },{ "kty":"oct", "k":"IFh35VaZgSHgEgjZxQnk6A", "kid":"3a3kKbZ8eIl1Lpuv/dnrmw" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
