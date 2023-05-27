@@ -28,7 +28,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bYT/tsbtmNT5mkYEI2glow", "kid":"tJqIfIMk+d9shAop+q18OQ" },{ "kty":"oct", "k":"bYT/tsbtmNT5mkYEI2glow", "kid":"tJqIfIMk+d9shAop+q18OQ" },{ "kty":"oct", "k":"hVU/BiMu72fS16CUP9+JWA", "kid":"c0VEMzQk+d9shAop+q18OQ" },{ "kty":"oct", "k":"X8XS3kh94dzlzLZesadwkg", "kid":"u4lEMzQk+d9shAop+q18OQ" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1yKWWokbPVESC+mos5R/QQ", "kid":"rGcIjInnvALLkjEJPYUqCQ" },{ "kty":"oct", "k":"1yKWWokbPVESC+mos5R/QQ", "kid":"rGcIjInnvALLkjEJPYUqCQ" },{ "kty":"oct", "k":"ZHFhTtxkPxZgXinBeyPpdA", "kid":"axLEQzrnvALLkjEJPYUqCQ" },{ "kty":"oct", "k":"H5PzSpyeg610NYTQHsAWuA", "kid":"s1bEQzrnvALLkjEJPYUqCQ" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
@@ -42,7 +42,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MnHYJfT9A2BLZOppuN9wcw", "kid":"YoqodYy1Sq4fgLoqesx3mw" },{ "kty":"oct", "k":"MnHYJfT9A2BLZOppuN9wcw", "kid":"YoqodYy1Sq4fgLoqesx3mw" },{ "kty":"oct", "k":"nsbdP+VcW0pgGvFVkR9xIg", "kid":"ITVkLD21Sq4fgLoqesx3mw" },{ "kty":"oct", "k":"ZMAKmNPfnR5XZZAk23w5HQ", "kid":"aXlkLD21Sq4fgLoqesx3mw" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T/rjQphu+C/ZZIN5ZjB+Ow", "kid":"jy3LjTgg9tO2LL714NOGCA" },{ "kty":"oct", "k":"T/rjQphu+C/ZZIN5ZjB+Ow", "kid":"jy3LjTgg9tO2LL714NOGCA" },{ "kty":"oct", "k":"bT9sHra39YxE/6LsdwiqkQ", "kid":"TtiHROkg9tO2LL714NOGCA" },{ "kty":"oct", "k":"yAGA418TzDbJKV5QdH2rig", "kid":"lhyHROkg9tO2LL714NOGCA" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 //K+ Kids //FHD
@@ -53,10 +53,3 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"9YyA7Qi6KQtknNzMnW/qUA", "kid":"2DY2xOfw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"E6BDlucKSLYbG17CObWKTA", "kid":"l+Hye5jw28/wyFcyiMA/mQ" },{ "kty":"oct", "k":"zC3gbfPjpDVOURZQLWYTug", "kid":"3yXye5jw28/wyFcyiMA/mQ" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="FPT PLay" tvg-logo="https://i.imgur.com/w05BDfL.png",Mu vs Brighton
-EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q5EX/sLNA+oxWZTJJsScvQ", "kid":"4jTx66f9M66ZLJ1o3XjA5w" } ], "type":"temporary" }
-https://live-drm.fptplay.net/fnxdrmsport/thethao40_2000.stream/manifest.mpd
