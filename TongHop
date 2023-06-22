@@ -3,8 +3,8 @@
 //K+ Live 1 //HD
 #EXTINF:-1 tvg-id="klive1hd" group-title="K+ LIVE HD" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97251b767c404371a0cf0cf25fffdf36:766a7aa6b9abe109623b3ce0824ba98d
-https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" }], "type":"temporary" }
+https://sglivecdn.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
 //K+ Live 2 //HD
 #EXTINF:-1 tvg-id="klive2hd" group-title="K+ LIVE HD" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
