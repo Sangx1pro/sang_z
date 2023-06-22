@@ -508,25 +508,27 @@ http://sg.tinchuanchuaanh.com/jptv/get.php?id=ZPMe9i21mYzj4bNOlaYSyQ==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản 3" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/3aoWlvySJvrMYkUxn_QO-g==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
 http://sg.tinchuanchuaanh.com/jptv/get.php?id=3aoWlvySJvrMYkUxn_QO-g==
 //VTV
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV1       
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2MWhkXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY4NzM5ODI2MnwxNzEuMjM0Ljk0LjEyNXwxYmJkMTMzNDk5ZDc2YjUyZGI0NjFhYmY5YjBkOTdhYw/fnxhd1/vtv1hd_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV2
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2Ml80MDAwLnN0cmVhbXx2aWV0dGVsfDE2ODczOTg0Mzd8MTcxLjIzNC45NC4xMjV8NDdjM2NjNTc2OWI1ODZlZDc5YjJjN2RmNDFlODU0MmQ/fnxhd1/vtv2_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV3      
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2M2hkXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY4NzM5ODUwMHwxNzEuMjM0Ljk0LjEyNXw2YjcxYThjZGE2YTUyNmNhNzY4ZjA1OGUyZmU1YjNkMQ/fnxhd1/vtv3hd_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV4       
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2NF80MDAwLnN0cmVhbXx2aWV0dGVsfDE2ODczOTg2NDJ8MTcxLjIzNC45NC4xMjV8NTc2MDE4ZWJmYWE4NGU4MTc0YTFmYWQ0MWE2M2I2MzM/fnxhd1/vtv4_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5" group-title="VTV" tvg-logo="https://i.imgur.com/5yb2bq1.png" ,VTV5
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2NWhkXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY4NzM5ODY5MHwxNzEuMjM0Ljk0LjEyNXxkOTM0MTFiODFmMTA4OTIwNThjNDU1Y2Q5ZGJiMDFmOA/epzhd1/vtv5hd_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/P9KsKZe.png" ,VTV5 Tây Nguyên
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2NXRheW5ndXllbl80MDAwLnN0cmVhbXx2aWV0dGVsfDE2ODc0MDI0MzF8MTcxLjIzNC45NC4xMjV8YzM3Mzc1OTMyMWY4YjU2Yjk3NTljMmMzYzU5YjMzNGM/fnxhd1/vtv5taynguyen_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png" ,VTV5 TÂY NAM BỘ
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2NXRuYl80MDAwLnN0cmVhbXx2aWV0dGVsfDE2ODczOTg3NTJ8MTcxLjIzNC45NC4xMjV8NjBiNjE2N2VkNzBhYWQ3NDFlYWNjMzRkYWEyYjExMDE/fnxhd1/vtv5tnb_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV CẦN THƠ
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2Y2FudGhvXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY4NzM5ODgwN3wxNzEuMjM0Ljk0LjEyNXw4NzcyZGJiODFjOWRmMjcyYzk1MGFiMmY0NGVkMjVlZA/fnxhd1/vtvcantho_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV7
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2N2hkXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY4NzQwMjc0M3wxNzEuMjM0Ljk0LjEyNXxjNDFjMmQ3MThkN2NiMzAxN2Q1YzUxZWNjODc4YjBlMg/fnxhd1/vtv7hd_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV8
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2OGhkXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY4NzM5ODkzMHwxNzEuMjM0Ljk0LjEyNXw4MjBjMDAzODU3ODMyOTgwZGI3YzBmNmRiYTNjOTFkNA/epzhd1/vtv8hd_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV9
-https://vips-livecdn.fptplay.net/MTkzMjAxMzV8dnR2OV80MDAwLnN0cmVhbXx2aWV0dGVsfDE2ODczOTg5NzJ8MTcxLjIzNC45NC4xMjV8MWFlNjE4MjI2MTEyYzFiZTE0NDc1MzgzNjQ3YTk4ZTM/fnxhd1/vtv9_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
+https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2
+https://code.vthanhtivi.pw/getlink/mytv/377/hd.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3
+https://code.vthanhtivi.pw/getlink/mytv/211/hd.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8", VTV4
+https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5
+https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 | 50fps
+https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nguyên
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7
+https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8
+https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9
+https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ
+https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
