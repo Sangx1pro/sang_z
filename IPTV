@@ -3,7 +3,7 @@
 //K+ Live 1 //HD
 #EXTINF:-1 tvg-id="klive1hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/Xi5O4g5.png", K+ Live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/rbue9l01ssqfrx8ca6sj4/live1.ico?rlkey=hppq63qx5zpmbzp9zchxp1b38&dl=1
+#KODIPROP:inputstream.adaptive.license_key=https://www.dropbox.com/scl/fi/rbue9l01ssqfrx8ca6sj4/live1.-oqeiqwosad?rlkey=hppq63qx5zpmbzp9zchxp1b38&dl=1
 https://akaviettel.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
 //K+ Live 2 //HD
 #EXTINF:-1 tvg-id="klive2hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/s4zh5XW.png", K+ Live 2
