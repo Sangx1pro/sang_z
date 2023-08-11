@@ -21,7 +21,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CwPwez37ctYxXw/Ga1IUfA", "kid":"IEAMQ9dqKCVeld4A7K6PTw"},{"kty":"oct","k":"CwPwez37ctYxXw/Ga1IUfA","kid":"IEAMQ9dqKCVeld4A7K6PTw"},{"kty":"oct", "k":"TMDoVTcnXHpMTWgFNi03IA","kid":"3+vI+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"/BvZJI1SffDJ9HV8ysTwLQ", "kid":"Jy/I+ohqKCVeld4A7K6PTw"}], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2RtEqQhJeqA5NDBg6xyRaQ", "kid":"ax2pmk/Gkb+FXyWpZqIZng" },{ "kty":"oct", "k":"2RtEqQhJeqA5NDBg6xyRaQ", "kid":"ax2pmk/Gkb+FXyWpZqIZng" },{ "kty":"oct", "k":"7tJeCwn0Tg2O/VKCz06xkg", "kid":"KshlUQDGkb+FXyWpZqIZng" },{ "kty":"oct", "k":"GRN3e2D2bvL0FTCm3SaXlQ", "kid":"cgxlUQDGkb+FXyWpZqIZng" }], "type":"temporary" 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
 #EXTINF:-1 tvg-id="ksports2hd" group-title="K+" tvg-logo="https://i.imgur.com/bzACfOj.png", K+ Sports 2
