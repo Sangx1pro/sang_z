@@ -36,7 +36,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"q1DW4xxIrQ/ZVmTD83GrnA", "kid":"KeIrmqPHNE4yhooVj9EzcQ" },{ "kty":"oct", "k":"eoFc7ZPGNixnScZe1AYzSg", "kid":"6I3nUVTHNE4yhooVj9EzcQ" },{ "kty":"oct", "k":"QgYo1ahv86DwZ6KfIr9bJg", "kid":"MNHnUVTHNE4yhooVj9EzcQ" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lXaeSJwb1DUliuRvYn2LEA", "kid":"OrbAogWX/AaqhyOkH6wsqw" },{ "kty":"oct", "k":"8U5h0+HaY3+9Ljqfp8dLdg", "kid":"M8cE61SX/AaqhyOkH6wsqw" },{ "kty":"oct", "k":"8U5h0+HaY3+9Ljqfp8dLdg", "kid":"M8cE61SX/AaqhyOkH6wsqw" },{ "kty":"oct", "k":"8U5h0+HaY3+9Ljqfp8dLdg", "kid":"M8cE61SX/AaqhyOkH6wsqw" }], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
