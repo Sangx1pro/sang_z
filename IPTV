@@ -51,5 +51,5 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ur2jrzVRTsK4HFYvh9H5/w", "kid":"7VzxLikZBptdiE4ryF6wTg" },{ "kty":"oct", "k":"kwAYUr/wCSV2ZXc1laATvA", "kid":"pRjxLikZBptdiE4ryF6wTg" },{ "kty":"oct", "k":"6JaIssGFoclnvC59GVMTSw", "kid":"5m01d3gZBptdiE4ryF6wTg" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hGYEMg1nHbNQXA1ltZUs5Q", "kid":"gSnislxQgjvPvnREqq7IoA" },{ "kty":"oct", "k":"JQaRokrhVv81ZBtFzurdfQ", "kid":"OeXislxQgjvPvnREqq7IoA" },{ "kty":"oct", "k":"H2kfCLBu5w7rplZpmXIkFQ", "kid":"ejom+6tQgjvPvnREqq7IoA" },{ "kty":"oct", "k":"H2kfCLBu5w7rplZpmXIkFQ", "kid":"ejom+6tQgjvPvnREqq7IoA" }], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
