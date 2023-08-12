@@ -29,6 +29,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"15cpQr621RwuL9ocFWU/Rw", "kid":"jRLL2yqNSHtaePqPKkwtqQ" },{ "kty":"oct", "k":"sS7SoTVO5JsDCtQUYeYC7g", "kid":"Rc7L2yqNSHtaePqPKkwtqQ" },{ "kty":"oct", "k":"9fnHQzlIxQ6MxmooRojMuw", "kid":"hiMPJHmNSHtaePqPKkwtqQ" },{ "kty":"oct", "k":"9fnHQzlIxQ6MxmooRojMuw", "kid":"hiMPJHmNSHtaePqPKkwtqQ" } ], "type":"temporary" }
+
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
