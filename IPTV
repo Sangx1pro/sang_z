@@ -35,7 +35,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"6V46//9OmXX+2OcMdsletg", "kid":"5eoVuSHG5pxzAltNhYpEEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"Zo3oSe83NXmW378Uq4xAiw", "kid":"naYVuSHG5pxzAltNhYpEEA" }], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
