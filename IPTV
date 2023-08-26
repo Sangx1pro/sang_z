@@ -50,5 +50,5 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hGYEMg1nHbNQXA1ltZUs5Q", "kid":"gSnislxQgjvPvnREqq7IoA" },{ "kty":"oct", "k":"JQaRokrhVv81ZBtFzurdfQ", "kid":"OeXislxQgjvPvnREqq7IoA" },{ "kty":"oct", "k":"H2kfCLBu5w7rplZpmXIkFQ", "kid":"ejom+6tQgjvPvnREqq7IoA" },{ "kty":"oct", "k":"H2kfCLBu5w7rplZpmXIkFQ", "kid":"ejom+6tQgjvPvnREqq7IoA" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IDOQyT02/mB+o78RJc32rw", "kid":"wUPlifWsNlWI9Ia5e/rOhA" },{ "kty":"oct", "k":"3Igi3sT+NktSAA+rLZMaHA", "kid":"gO6hQKasNlWI9Ia5e/rOhA" }], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
