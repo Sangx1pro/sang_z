@@ -22,7 +22,8 @@ https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bvnukuDbf44AjVtYl8n2OA", "kid":"VP/jLV2PVCr+jEHIOdC5QQ" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+//https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
 #EXTINF:-1 tvg-id="ksports2hd" group-title="K+" tvg-logo="https://i.imgur.com/bzACfOj.png", K+ Sports 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
