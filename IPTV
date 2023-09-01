@@ -53,3 +53,32 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IDOQyT02/mB+o78RJc32rw", "kid":"wUPlifWsNlWI9Ia5e/rOhA" },{ "kty":"oct", "k":"3Igi3sT+NktSAA+rLZMaHA", "kid":"gO6hQKasNlWI9Ia5e/rOhA" }], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+
+
+#EXTINF:-1,KCINE MAX
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZpoCiSYaFWu20XsBwlJdjg/m3u8
+#EXTINF:-1,KLIFE MAX
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Va56Yrp3Ph0WS8GiAV1ujZi/m3u8
+#EXTINF:-1,KSPORT1 MAX
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYEYuIWRhtfhWJ-fbI0rM0C/m3u8
+#EXTINF:-1,KSPORT2 MAX
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZx-Cn4Pv-ddDNneMFU6gYE/m3u8
+#EXTINF:-1,KKIDS MAX
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Vbc-poYIVG62k1lQSdbmdwr/m3u8
+#EXTINF:-1,KCINE MYK+
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZBIJ2jbX9Xmtbk_zvGng_m/m3u8
+#EXTINF:-1,KLIFE MYK+
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZ81Iy_GCJq7TmwUvqT9Hcy/m3u8
+#EXTINF:-1,KSPORT1 MYK+
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYzpdGOANh6NuHl1XlprWYY/m3u8
+#EXTINF:-1,KSPORT2 MYK+
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VblNbqAUg2ONUmwmOxcSt7A/m3u8
+#EXTINF:-1,KKIDS MYK+
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Va_mwQpHcY4FBmfLYeLBUl8/m3u8
+#EXTINF:-1,KLIVE x SPORTS1
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZefjknMP1fNGWLR3ObqCHy/m3u8
+#EXTINF:-1,KLIVE x SPORTS2
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Vbw0t18D6VZhjmYL0gKik6Y/m3u8
+#EXTINF:-1,KLIVE x SPORTS3
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYQDkIToBTbsfFfa39Nsbog/m3u8
