@@ -26,33 +26,37 @@ http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYEYuIWRhtfhWJ
 //https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 //K+ Sports 2//FHD
 #EXTINF:-1 tvg-id="ksports2hd" group-title="K+" tvg-logo="https://i.imgur.com/bzACfOj.png", K+ Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }, { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" } , { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+//#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+//#KODIPROP:inputstream.adaptive.manifest_type=dash
+//#KODIPROP:inputstream.adaptive.license_type=clearkey
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }, { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" } , { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }], "type":"temporary" }
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZx-Cn4Pv-ddDNneMFU6gYE/m3u8
+//https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"Zo3oSe83NXmW378Uq4xAiw", "kid":"naYVuSHG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"Zo3oSe83NXmW378Uq4xAiw", "kid":"naYVuSHG5pxzAltNhYpEEA" }], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+//#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+//#KODIPROP:inputstream.adaptive.manifest_type=dash
+//#KODIPROP:inputstream.adaptive.license_type=clearkey
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"Zo3oSe83NXmW378Uq4xAiw", "kid":"naYVuSHG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"Zo3oSe83NXmW378Uq4xAiw", "kid":"naYVuSHG5pxzAltNhYpEEA" }], "type":"temporary" }
+//https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZ81Iy_GCJq7TmwUvqT9Hcy/m3u8
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zvsUxYJ3uTiz4+DS8GrwKw", "kid":"wDGnjyc12amO+J7fKdzG6w" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+//#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+//#KODIPROP:inputstream.adaptive.manifest_type=dash
+//#KODIPROP:inputstream.adaptive.license_type=clearkey
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zvsUxYJ3uTiz4+DS8GrwKw", "kid":"wDGnjyc12amO+J7fKdzG6w" } ], "type":"temporary" }
+//https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZBIJ2jbX9Xmtbk_zvGng_m/m3u8
 
 //K+ Kids //FHD
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
-EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IDOQyT02/mB+o78RJc32rw", "kid":"wUPlifWsNlWI9Ia5e/rOhA" },{ "kty":"oct", "k":"3Igi3sT+NktSAA+rLZMaHA", "kid":"gO6hQKasNlWI9Ia5e/rOhA" }], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+//EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+//#KODIPROP:inputstream.adaptive.manifest_type=dash
+//#KODIPROP:inputstream.adaptive.license_type=clearkey
+//#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IDOQyT02/mB+o78RJc32rw", "kid":"wUPlifWsNlWI9Ia5e/rOhA" },{ "kty":"oct", "k":"3Igi3sT+NktSAA+rLZMaHA", "kid":"gO6hQKasNlWI9Ia5e/rOhA" }], "type":"temporary" }
+//https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Vbc-poYIVG62k1lQSdbmdwr/m3u8
 
 
 
@@ -60,21 +64,18 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZpoCiSYaFWu20XsBwlJdjg/m3u8
 #EXTINF:-1,KLIFE MAX
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Va56Yrp3Ph0WS8GiAV1ujZi/m3u8
-#EXTINF:-1,KSPORT1 MAX
-http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYEYuIWRhtfhWJ-fbI0rM0C/m3u8
-#EXTINF:-1,KSPORT2 MAX
-http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZx-Cn4Pv-ddDNneMFU6gYE/m3u8
-#EXTINF:-1,KKIDS MAX
-http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Vbc-poYIVG62k1lQSdbmdwr/m3u8
-#EXTINF:-1,KCINE MYK+
+
+
+
+#EXTINF:-1,KCINE MYK+ group-title="K+ MyK+"
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZBIJ2jbX9Xmtbk_zvGng_m/m3u8
-#EXTINF:-1,KLIFE MYK+
+#EXTINF:-1,KLIFE MYK+ group-title="K+ MyK+"
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZ81Iy_GCJq7TmwUvqT9Hcy/m3u8
-#EXTINF:-1,KSPORT1 MYK+
+#EXTINF:-1,KSPORT1 MYK+ group-title="K+ MyK+"
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYzpdGOANh6NuHl1XlprWYY/m3u8
-#EXTINF:-1,KSPORT2 MYK+
+#EXTINF:-1,KSPORT2 MYK+ group-title="K+ MyK+"
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VblNbqAUg2ONUmwmOxcSt7A/m3u8
-#EXTINF:-1,KKIDS MYK+
+#EXTINF:-1,KKIDS MYK+ group-title="K+ MyK+"
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Va_mwQpHcY4FBmfLYeLBUl8/m3u8
 #EXTINF:-1,KLIVE x SPORTS1
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZefjknMP1fNGWLR3ObqCHy/m3u8
