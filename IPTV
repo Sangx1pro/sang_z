@@ -67,15 +67,15 @@ http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Va56Yrp3Ph0WS8
 
 
 
-#EXTINF:-1,KCINE MYK+ group-title="K+ MyK+"
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZBIJ2jbX9Xmtbk_zvGng_m/m3u8
-#EXTINF:-1,KLIFE MYK+ group-title="K+ MyK+"
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZ81Iy_GCJq7TmwUvqT9Hcy/m3u8
-#EXTINF:-1,KSPORT1 MYK+ group-title="K+ MyK+"
+#EXTINF:-1 tvg-id="ksports1hd" group-title="K+" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VYzpdGOANh6NuHl1XlprWYY/m3u8
-#EXTINF:-1,KSPORT2 MYK+ group-title="K+ MyK+"
+#EXTINF:-1 tvg-id="ksports2hd" group-title="K+" tvg-logo="https://i.imgur.com/bzACfOj.png", K+ Sports 2
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VblNbqAUg2ONUmwmOxcSt7A/m3u8
-#EXTINF:-1,KKIDS MYK+ group-title="K+ MyK+"
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2Va_mwQpHcY4FBmfLYeLBUl8/m3u8
 #EXTINF:-1,KLIVE x SPORTS1
 http://b4tv.live:80/play/fxlsRGCS782CDQDKrGBYfcpj-08aG9dVkulvtijY2VZefjknMP1fNGWLR3ObqCHy/m3u8
