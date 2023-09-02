@@ -27,21 +27,21 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }, { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" } , { "kty":"oct", "k":"qIP39dBRV+f2EVxotcX3cQ", "kid":"yf8bRnvHPEpKuhWMoy3XFg" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fxA5pNs/n5ahFD8osxszOw", "kid":"u+bpIDCyQm4kkB1Pb/hkDw" } ], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="💕 K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"Zo3oSe83NXmW378Uq4xAiw", "kid":"naYVuSHG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"GiZQcl261NLiT+aKRXl7Wg", "kid":"3vtZAnDG5pxzAltNhYpEEA" },{ "kty":"oct", "k":"Zo3oSe83NXmW378Uq4xAiw", "kid":"naYVuSHG5pxzAltNhYpEEA" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3N4RopSeKHgGv70Y+OIN8g", "kid":"nfqzOSnvPtFmbDcmGMRnkA" },{ "kty":"oct", "k":"W4eP6+gE8w2QCIorAD/eew", "kid":"XKVv8NrvPtFmbDcmGMRnkA" },{ "kty":"oct", "k":"3N4RopSeKHgGv70Y+OIN8g", "kid":"nfqzOSnvPtFmbDcmGMRnkA" },{ "kty":"oct", "k":"1Mjh3WehaFn5ZiQNEizu7A", "kid":"pOlv8NrvPtFmbDcmGMRnkA" } ], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="💕 K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zvsUxYJ3uTiz4+DS8GrwKw", "kid":"wDGnjyc12amO+J7fKdzG6w" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"clgm0YhacQYk42FWm3CH+Q", "kid":"c5wXqeA54psAtAsQBPlmZw" } ], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 //K+ Kids //FHD
