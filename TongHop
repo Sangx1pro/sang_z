@@ -1,4 +1,5 @@
 //© Copyright Phạm Sáng
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 //#EXTINF:-1 tvg-id="klive1hd" group-title = "© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/X4gTMP2.png",© Copyright Phạm Sáng
 //K+ Live 1 //HD
 #EXTINF:-1 tvg-id="klive1hd" group-title="💕 K+ LIVE HD" tvg-logo="https://i.imgur.com/Xi5O4g5.png", K+ Live 1
