@@ -42,7 +42,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Lec817YQTIXStyn/RBBEMw", "kid":"tYi+GLq6JHXnBx2iOWgSRQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cLSvrxYOhiRBMq/VpBK/HA", "kid":"t/tobmSK35aYiNco87wo2A" },{ "kty":"oct", "k":"cLSvrxYOhiRBMq/VpBK/HA", "kid":"t/tobmSK35aYiNco87wo2A" },{ "kty":"oct", "k":"cLSvrxYOhiRBMq/VpBK/HA", "kid":"t/tobmSK35aYiNco87wo2A" },{ "kty":"oct", "k":"cLSvrxYOhiRBMq/VpBK/HA", "kid":"t/tobmSK35aYiNco87wo2A" }], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 //K+ Kids //FHD
