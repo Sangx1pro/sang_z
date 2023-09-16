@@ -1,21 +1,20 @@
 //© Copyright Phạm Sáng
-//#EXTINF:-1 tvg-id="klive1hd" group-title = "© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/X4gTMP2.png",© Copyright Phạm Sáng
+#EXTINF:-1 tvg-id="klive1hd" group-title = "© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/X4gTMP2.png",© Copyright Phạm Sáng
 //K+ Live 1 //HD
-#EXTINF:-1 tvg-id="klive1hd" group-title="💕 K+ LIVE HD" tvg-logo="https://i.imgur.com/Xi5O4g5.png", K+ Live 1
+#EXTINF:-1 tvg-id="klive1hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/Xi5O4g5.png", K+ Live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
 //K+ Live 2 //HD
-#EXTINF:-1 tvg-id="klive2hd" group-title="💕 K+ LIVE HD" tvg-logo="https://i.imgur.com/s4zh5XW.png", K+ Live 2
+#EXTINF:-1 tvg-id="klive2hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/s4zh5XW.png", K+ Live 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
 //K+ Live 3 // HD
-#EXTINF:-1 tvg-id="klive3hd" group-title="💕 K+ LIVE HD" tvg-logo="https://i.imgur.com/5MpuSJF.png", K+ Live 3
+#EXTINF:-1 tvg-id="klive3hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/5MpuSJF.png", K+ Live 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
 https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
-
 //K+ Sport 1//FHD
 #EXTINF:-1 tvg-id="ksports1hd" group-title="💕 K+" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
