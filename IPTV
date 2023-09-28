@@ -34,14 +34,14 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3YrjcOjGnTYmlrFvXVMqDQ", "kid":"lKB5R8HYcHR9SMLK4ijVgA" },{ "kty":"oct", "k":"NHXHQ7Srwy+CW65csQaZIQ", "kid":"U0s1/nLYcHR9SMLK4ijVgA" },{ "kty":"oct", "k":"lNF2jDDeuhIMcBlCLZJz5w", "kid":"m481/nLYcHR9SMLK4ijVgA" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iCOP2D1KU/FmoZ+ezwgXxw", "kid":"iS0AGpUKV5OiBH1zfohqWA" }, { "kty":"oct", "k":"ql/OMEO2c/dTWgDZhkih8w", "kid":"SNi80UYKV5OiBH1zfohqWA" },{ "kty":"oct", "k":"M1HEm1gMuoDuuz7bI4YrAA", "kid":"kBy80UYKV5OiBH1zfohqWA" }], "type":"temporary" } 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 //K+ Cine //FHD
 #EXTINF:-1 tvg-id="kcinehd" group-title="💕 K+" tvg-logo="https://i.imgur.com/AKxe4e5.png", K+ Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BT2hPP8BqerMOuza6TOqNA", "kid":"TX/UElw34EziLkQrRdxhfA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tBGJr2tlyxA+y+HnLVvcDw", "kid":"MLkJByBGKX/LAuLoG6hsnQ" } ], "type":"temporary" } 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 //K+ Kids //FHD
@@ -49,6 +49,6 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Hl1C7CSS15CDq3oQLq6EAw", "kid":"QEEhGvTdxnZUCbWeWwmszw" },{ "kty":"oct", "k":"bfCFPt4XPWcjft+CpoDBlw", "kid":"/+zd0aXdxnZUCbWeWwmszw" },{ "kty":"oct", "k":"DZ9TuzIsilLKsUfj00w0dA", "kid":"RzDd0aXdxnZUCbWeWwmszw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4gyETqkPalZ3f0etddlvDQ", "kid":"tFG1qW+6ka0I68mUCyIgAQ" },{ "kty":"oct", "k":"HyrYYAeDef24aZMiT8CLSQ", "kid":"c/xxYCC6ka0I68mUCyIgAQ" },{ "kty":"oct", "k":"rtUGgCKdxgCmM0aWjILVuQ", "kid":"u0BxYCC6ka0I68mUCyIgAQ" }], "type":"temporary" } 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
