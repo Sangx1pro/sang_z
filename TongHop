@@ -269,3 +269,49 @@ https://code.vthanhtivi.pw/getlink/tv360/55rXt3fs8LYJh3p120t7Qg/1695957299/169/p
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/jDahxQQ894nJS1ToFSWViw/1695957299/2380/playlist.m3u8
 
+
+//HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+http://vthanhtivi.pw:5000/hbo/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+https://code.vthanhtivi.pw/getlink/cliptv/2d5d513d0270aa825326154ffb955fda/1695957299/in-the-box-channel/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+https://code.vthanhtivi.pw/getlink/cliptv/2d5d513d0270aa825326154ffb955fda/1695957299/box-hits/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="man" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+https://code.vthanhtivi.pw/getlink/tv360/QmE7abj0PTNZxQSVFRcgIw/1695957299/237/playlist.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+https://code.vthanhtivi.pw/getlink/tv360/D6O4Zqm6eZarSwH6LAq_ng/1695957299/162/playlist.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+https://code.vthanhtivi.pw/getlink/tv360/hB_l2a3jx4Uk6ZZI0O2lIw/1695957299/212/playlist.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://code.vthanhtivi.pw/getlink/tv360/Pws27oE5kWWkUEPIgJIIvQ/1695957299/135/playlist.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+https://code.vthanhtivi.pw/getlink/tv360/gqmvxIsZ8kfHzm9fH5hbxQ/1695957299/163/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="drfithd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
