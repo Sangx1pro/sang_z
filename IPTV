@@ -51,3 +51,4 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dBQ4xz1i6eG9ZSqSLdOdA", "kid":"HzOWH5G5jISopb/89lU8ng" }, { "kty":"oct", "k":"qiZRzKPCpUPEBRD+kBqAnA", "kid":"3t5S1kK5jISopb/89lU8ng" },{ "kty":"oct", "k":"ZSY0VP0Tk28I/WPK+dp+fg", "kid":"JiJS1kK5jISopb/89lU8ng" }],"type":"temporary" }
 https://hbolive.kplus.vn/__token__exp%3D1696626282~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3D69bac601-1683-4d62-bb95-363410f56a45~hmac%3D58db4ddb8d847f1bfba1431838f6daa0089bc67affd2f649cbce0d27a09215f0/bpk-tv/prod_kplus_kidshd/default/index.mpd
+//End K+
