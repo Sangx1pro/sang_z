@@ -4,17 +4,17 @@
 #EXTINF:-1 tvg-id="klive1hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/Xi5O4g5.png", K+ Live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1696626504~acl%3D%2Fbpk-tv%2Fprod_klive1%2Fdefault%2F%2A~id%3Dbd4886b2-dc3a-48a1-b418-5b0e20f196b5~hmac%3D95ef5cf0b6840474bcfb8aba1ac0b7496da34225cd8f1bf752de79d40720c369/bpk-tv/prod_klive1/default/index.mpd
 //K+ Live 2 //HD
 #EXTINF:-1 tvg-id="klive2hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/s4zh5XW.png", K+ Live 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1696626650~acl%3D%2Fbpk-tv%2Fprod_klive2%2Fdefault%2F%2A~id%3D92fc1993-b8e8-4e59-8638-85e40db2ff2f~hmac%3D6176e7ace8ef9a5b932ce626decdd51a18b7ad2f00611dce921082d3bf012259/bpk-tv/prod_klive2/default/index.mpd
 //K+ Live 3 // HD
 #EXTINF:-1 tvg-id="klive3hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/5MpuSJF.png", K+ Live 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1696626749~acl%3D%2Fbpk-tv%2Fprod_klive3%2Fdefault%2F%2A~id%3D497b234d-1545-4ae1-acb9-292d39f6bea7~hmac%3D8d52f84a6c915d1af4f687a7818f70d5ad3cdc9cad50d184a96045479dcccc2d/bpk-tv/prod_klive3/default/index.mpd
 //K+ Sport 1//FHD
 #EXTINF:-1 tvg-id="ksports1hd" group-title="💕 K+" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
