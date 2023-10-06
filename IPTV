@@ -20,7 +20,7 @@ https://hbolive.kplus.vn/__token__exp%3D1696626749~acl%3D%2Fbpk-tv%2Fprod_klive3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lho4v5rL01XeqKyDvJDoOQ", "kid":"iY7rAheQBu7IACFOwCACiA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sU1Fq+Zjt7GxznYr42BbXg", "kid":"SqrhGwI/QtsUlgTkb+qJBw" } ], "type":"temporary" } 
 https://sglivecdn.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 //K+ Sports 2//FHD
