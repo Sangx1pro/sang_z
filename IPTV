@@ -52,29 +52,6 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dBQ4xz1i6eG9ZSqSLdOdA", "kid":"HzOWH5G5jISopb/89lU8ng" }, { "kty":"oct", "k":"qiZRzKPCpUPEBRD+kBqAnA", "kid":"3t5S1kK5jISopb/89lU8ng" },{ "kty":"oct", "k":"ZSY0VP0Tk28I/WPK+dp+fg", "kid":"JiJS1kK5jISopb/89lU8ng" }],"type":"temporary" }
 https://hbolive.kplus.vn/__token__exp%3D1696626282~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3D69bac601-1683-4d62-bb95-363410f56a45~hmac%3D58db4ddb8d847f1bfba1431838f6daa0089bc67affd2f649cbce0d27a09215f0/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
-//VTV Cab
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv15hd" group-title="💚|Laliga" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv17hd" group-title="💚|Laliga" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/sctvonline/sctv17/playlist.m3u8
 
 
