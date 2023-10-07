@@ -29,7 +29,7 @@ https://hbolive.kplus.vn/__token__exp%3D1696670709~acl%3D%2Fbpk-tv%2Fprod_kplus_
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zyW6OqD5ZK8q1ujTVCNWqQ", "kid":"OyDqndQAsffJoCNsRVNOLQ" } ], "type":"temporary" }
-https://hbolive.kplus.vn/__token__exp%3D1696625629~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3Dbfcd3057-446b-4b92-b89b-bfa1a986587e~hmac%3D67affe892ebc0d28802b8c63349f59cb9a8648c5a8d1c3774cb57ebff6ead2fa/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1696671422~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3Dc3eeefab-e227-4ff3-bc26-48d8610411cb~hmac%3D21bbba21935d163751ca91daa85f526cefe4e664afebc58b9bc2e7f7152d7e9c/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 //K+ Life //FHD 
 #EXTINF:-1 tvg-id="klifehd" group-title="💕 K+" tvg-logo="https://i.imgur.com/TckrCog.png", K+ Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
